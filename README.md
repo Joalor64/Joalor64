@@ -21,11 +21,9 @@ Mostly out of boredom or for fun, but I still hope at least some people enjoy th
 
 ### Old/Misc. Projects
 * [Rhythmo](https://github.com/JoaTH-Team/Rhythmo)
-* [Əlʊɹa](https://github.com/Joalor64/alura)
 * [VisionSphere](https://github.com/Joalor64/VisionSphere)
 * [Foreverbox](https://joalor64.github.io/projects/foreverbox)
 * [Flash Creations](https://github.com/Joalor64/Flash-Creations)
-* [polymod-joalor64](https://github.com/Joalor64/polymod-joalor64)
 * [Joalor64 Engine Rewritten](https://github.com/Joalor64/Joalor64-Engine-Rewrite)
 * [VS Joalor64](https://github.com/Joalor64/VSJoalor64-SourceCode)
 
