@@ -12,6 +12,7 @@ Mostly out of boredom or for fun, but I still hope at least some people enjoy th
 * [Journey Through Aubekhia](https://github.com/JoaTH-Team/JTA)
 * [Synapse Engine](https://github.com/Joalor64/FNF-SynapseEngine/)
 * [VS Rob: Rebooted!](https://github.com/Joalor64/VS-Rob-Rebooted/)
+* [Rhythmo](https://github.com/JoaTH-Team/Rhythmo) (On Hold)
 * [Joalor64's Modbox](https://github.com/Joalor64/Modbox/)
 
 ### Template Projects
@@ -20,7 +21,6 @@ Mostly out of boredom or for fun, but I still hope at least some people enjoy th
 * [Simple Localization™](https://github.com/Joalor64/SimpleLocalization)
 
 ### Old/Misc. Projects
-* [Rhythmo](https://github.com/JoaTH-Team/Rhythmo)
 * [VisionSphere](https://github.com/Joalor64/VisionSphere)
 * [Foreverbox](https://joalor64.github.io/projects/foreverbox)
 * [Flash Creations](https://github.com/Joalor64/Flash-Creations)
