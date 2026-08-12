@@ -13,6 +13,8 @@ Mostly out of boredom or for fun, but I still hope at least some people enjoy th
 * [Synapse Engine](https://github.com/Joalor64/FNF-SynapseEngine/)
 * [VS Rob: Rebooted!](https://github.com/Joalor64/VS-Rob-Rebooted/)
 * [Rhythmo](https://github.com/JoaTH-Team/Rhythmo) (On Hold)
+* [Dreambox](https://joalor64.github.io/projects/dreambox)
+* [Joalor64's Modding Build](https://github.com/Joalor64/Joalor64s-Modding-Build)
 * [Joalor64's Modbox](https://github.com/Joalor64/Modbox/)
 
 ### Template Projects
