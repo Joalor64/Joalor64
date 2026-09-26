@@ -3,7 +3,7 @@ Hi, I do things. <br>
 Mostly out of boredom or for fun, but I still hope at least some people enjoy them.
 
 ## About Me
-<!--* Currently in college.-->
+* Currently in college.
 * Currently learning `Haxe/HaxeFlixel`, and some `Javascript`.
 * Pronouns: he/him/they/them
 
@@ -35,5 +35,5 @@ You can find some of my older projects here also, but most of them are at [@Joal
 <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,css,github,vscode,&perline=10&theme=dark"/>
 
 ## My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joalor64&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joalor64&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Joalor64)](https://github.com/stats-organization/github-stats-extended)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=Joalor64&layout=compact&theme=radical)
